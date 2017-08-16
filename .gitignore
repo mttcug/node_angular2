@@ -1,7 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
 /tmp
 /out-tsc
 
@@ -34,8 +33,8 @@ testem.log
 /typings
 
 # e2e
-/e2e/*.js
-/e2e/*.map
+/client/e2e/*.js
+/client/e2e/*.map
 
 # System Files
 .DS_Store
